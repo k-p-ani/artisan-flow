@@ -3,7 +3,6 @@
 This folder contains all of the assets to build a Spring-Boot application in a Tekton pipeline.
 
 ## Build Spring-Boot Application
-#testing
 ```bash
 art runc build-app
 ```
